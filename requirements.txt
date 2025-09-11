@@ -1,0 +1,26 @@
+# Enhanced Honeypot Requirements
+# Core dependencies
+requests>=2.25.1
+sqlite3  # Built-in with Python
+socket   # Built-in with Python
+threading  # Built-in with Python
+logging   # Built-in with Python
+datetime  # Built-in with Python
+os        # Built-in with Python
+time      # Built-in with Python
+itertools # Built-in with Python
+sys       # Built-in with Python
+random    # Built-in with Python
+json      # Built-in with Python
+hashlib   # Built-in with Python
+re        # Built-in with Python
+collections  # Built-in with Python
+
+# Optional dependencies for advanced features
+# cryptography>=3.4.8  # For encryption (uncomment if needed)
+# psutil>=5.8.0        # For system monitoring (uncomment if needed)
+
+# Platform-specific dependencies
+# On Linux: sudo apt-get install iptables
+# On Windows: No additional requirements
+# On macOS: brew install iptables (if needed)
