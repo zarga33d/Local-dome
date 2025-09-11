@@ -26,3 +26,31 @@ cd Local-dome
 ```bash
 pip install -r requirements.txt
 ```
+# ⚡ Add an alias for easy access
+# 7️⃣ Edit your zsh configuration file (if using zsh)
+```bash
+nano ~/.zshrc
+```
+Add the following line at the end (replace username with your actual user path):
+```bash
+alias zhz='python3 /home/username/Local-dome/zhoneypot_enhanced.py'
+```
+# 8️⃣ Reload zsh configuration
+```bash
+source ~/.zshrc
+```
+✅ You can now run the tool with a simple command:
+```bash
+zhz
+```
+# Windows Setup
+ # 1️⃣ Clone the tool from GitHub
+git clone https://github.com/zarga33d/Local-dome.git
+
+# 2️⃣ Navigate into the tool's directory
+cd Local-dome
+
+# 3️⃣ Install required Python libraries
+pip install -r requirements.txt
+
+⚠️ Note: iptables is not supported on Windows. Its functionality is simulated within the tool.
