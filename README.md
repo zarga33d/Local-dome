@@ -1,6 +1,18 @@
 # Local-dome
-Enhanced Honeypot is a security tool that simulates multiple services (SSH, FTP, HTTP, etc.) to detect and log cyber attacks. It collects threat intelligence, blocks malicious IPs automatically, and provides hidden logging with detailed statistics for research, monitoring, and training.
+Zarga Honeypot
 
+Enhanced Honeypot is a security tool that simulates multiple services (SSH, FTP, HTTP, etc.) to detect and log cyber attacks. It collects threat data, blocks malicious IPs automatically, and provides hidden logging with detailed statistics for research, monitoring, and training.
+
+# ⚠️ Key Features:
+
+- When a cyber attack is detected, the tool will trigger a pop-up alert.
+
+- Automatically launches a counterattack using hping3 against the attacking IP.
+
+- After the counterattack, it runs background reconnaissance scans (like nmap and other tools) on the target IP.
+
+All collected data is saved to a root-accessible file named: intel-reports
+This file contains detailed information extracted from the attack and subsequent scans.
 
 # 1️⃣ Update package lists
 ```bash
