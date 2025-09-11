@@ -1,3 +1,18 @@
+<div style="border: 2px solid #ff4d4d; padding: 15px; border-radius: 10px; background-color: #ffe6e6;">
+  <h3 style="color: #b30000;">⚠️ Disclaimer</h3>
+  <p>
+    <strong>zhz</strong> is a <strong>beta tool</strong> and is still under development. Use it at your own risk.
+  </p>
+  <p>
+    The developer, <strong>Zarga</strong>, <strong>is not responsible for any misuse</strong> of this tool, 
+    including but not limited to illegal, malicious, or unauthorized activities.
+  </p>
+  <p>
+    By using this software, you agree that you will <strong>only use it for ethical, legal, and educational purposes</strong>.
+  </p>
+</div>
+
+
 # Local-dome
 Zarga Honeypot
 
