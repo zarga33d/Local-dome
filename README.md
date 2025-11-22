@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://i.imgur.com/y1k00sb.png" alt="Zgoogle Logo" width="180">
+</div>
+
+
 <div style="border: 2px solid #ff4d4d; padding: 15px; border-radius: 10px; background-color: #ffe6e6;">
   <h3 style="color: #b30000;">⚠️ Disclaimer</h3>
   <p>
