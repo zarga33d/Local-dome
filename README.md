@@ -77,12 +77,16 @@ zhz
 ```
 # Windows Setup
  # 1️⃣ Clone the tool from GitHub
+ ```bash
 git clone https://github.com/zarga33d/Local-dome.git
-
+```
 # 2️⃣ Navigate into the tool's directory
+```bash
 cd Local-dome
+```
 
 # 3️⃣ Install required Python libraries
+```bash
 pip install -r requirements.txt
-
+```
 ⚠️ Note: iptables is not supported on Windows. Its functionality is simulated within the tool.
