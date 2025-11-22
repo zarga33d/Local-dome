@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/y1k00sb.png" alt="Zgoogle Logo" width="180">
+  <img src="https://i.imgur.com/To3Xds0.png" alt="Zgoogle Logo" width="180">
 </div>
 
 
